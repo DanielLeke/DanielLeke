@@ -1,3 +1,3 @@
-Hi I'm Daniel Adeleke @ DanielLeke.
-I'm currently learning how to program with Flutter and Dart.
-Contact me @ danieladeleke05@gmail.com.
+Hi, I'm Daniel Adeleke and I just like building things.
+
+Contact me: danieladeleke05@gmail.com
